@@ -1,0 +1,38 @@
+<template>
+	<div class="underling">
+		<div v-title></div>
+		
+	</div>
+</template>
+
+<script>
+	export default {
+		data(){
+			return {
+
+			}
+		}
+
+	}
+</script>
+
+<style scoped>
+.underling{
+  width:100%;
+  height:100vh;
+}
+	
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
